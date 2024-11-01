@@ -1,39 +1,20 @@
 {
   "posts": [
     {
-      "id": "1",
-      "title": "a title",
-      "views": 100
-    },
-    {
-      "id": "2",
-      "title": "another title",
-      "views": 200
-    },
-    {
-      "id": 70,
-      "title": "sdsd",
-      "views": 10
-    },
-    {
-      "id": 1,
-      "title": "sdsd",
-      "views": 10
+      "id": "5a5f",
+      "title": "my new title get number_23",
+      "slug": "my-new-title-get-number23",
+      "keywords": "keyword1,keytwod2",
+      "content": "<p>text for contectn <strong>asd</strong></p>",
+      "created_at": "2024-11-01T11:20:36.357Z"
     }
   ],
-  "comments": [
+  "users": [
     {
       "id": "1",
-      "text": "a comment about post 1",
-      "postId": "1"
-    },
-    {
-      "id": "2",
-      "text": "another comment about post 1",
-      "postId": "1"
+      "userName": "My User Name",
+      "role": "Admin",
+      "phone": "998946121812"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }

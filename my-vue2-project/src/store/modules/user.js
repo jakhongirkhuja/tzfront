@@ -6,6 +6,7 @@ const state = {
     getUserInfo: (state) => state.userInfo,
   };
   
+  
   const actions = {
     async fetchUserInfo({ commit }) {
       try {

@@ -33,7 +33,7 @@ export default {
     ...mapActions('user', ['fetchUserInfo']),
   },
   created() {
-    this.fetchUserInfo(); // Fetch user info when the app is created
+    this.fetchUserInfo();
   },
 };
 </script>
