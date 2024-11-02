@@ -7,14 +7,20 @@
       "keywords": "keyword1,keytwod2",
       "content": "<p>text for contectn <strong>asd</strong></p>",
       "created_at": "2024-11-01T11:20:36.357Z"
+    },
+    {
+      "id": "f24d",
+      "title": "my first blog ever",
+      "slug": "my-first-blog-ever",
+      "keywords": "keywrd1,keywodd2",
+      "content": "<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also t</p>",
+      "created_at": "2024-11-01T16:47:15.159Z"
     }
   ],
-  "users": [
-    {
-      "id": "1",
-      "userName": "My User Name",
-      "role": "Admin",
-      "phone": "998946121812"
-    }
-  ]
+  "users": {
+    "id": "1",
+    "name": "Joha",
+    "role": "Admin",
+    "phone": "998946121812"
+  }
 }
