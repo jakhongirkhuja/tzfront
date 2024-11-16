@@ -6,7 +6,6 @@
     <HeaderComponent />
     <SideBarComponent />
     <main id="main" class="main">
-      
       <router-view />
     </main>
    

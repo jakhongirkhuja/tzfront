@@ -1,7 +1,7 @@
 import Vue from 'vue';
 import VueRouter from 'vue-router';
 import HomeView from '@/views/Home';
-import pageRoutes from '@/modules/pagesSection/route.js';
+import pageRoutes from '@/modules/pages/router/route.js';
 Vue.use(VueRouter);
 
 const routes = [

@@ -33784,7 +33784,7 @@
             if (stateObj) {
               stateObj.ignore = true;
             }
-            if (!!labelLine) {
+            if (labelLine) {
               setLabelLineState(labelLine, true, stateName, stateModel);
             }
             continue;

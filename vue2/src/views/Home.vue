@@ -1,9 +1,8 @@
-
 <template>
    <div>
     <p v-if="getUserInfo">Hello, {{ getUserInfo.name }}</p>
    </div>
-  </template>
+</template>
   
   <script>
   import { mapGetters, mapActions } from 'vuex';
